@@ -217,3 +217,61 @@ main {
   border-radius: 16px;
   padding: 32px;
 }
+
+.target {
+  margin-top: 151px;
+}
+
+.current-card {
+  display: flex;
+  gap: 24px;
+}
+
+.html {
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+}
+.css {
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+}
+.js {
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+}
+
+.current-title {
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 36px;
+  margin-top: 24px;
+}
+
+.current-dsc {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 8px;
+}
+
+.current-button {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  margin-top: 24px;
+  text-decoration-line: underline;
+}
+
+.support {
+  background: url(./assets/handshake.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 48px;
+  border-radius: 16px;
+  justify-content: center;
+  align-items: cover;
+  height: 313px;
+}
