@@ -40,7 +40,7 @@ main {
 }
 
 .banner {
-  background: url(./assets/Hero-bg.png);
+  background: url(/assets/Hero-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: 48px;
@@ -267,7 +267,7 @@ main {
 
 .support {
   background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url(./assets/handshake.jpg);
+    url(/assets/handshake.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: 48px;
